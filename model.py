@@ -1,3 +1,5 @@
+#Developed in google colab
+
 !wget https://storage.googleapis.com/tensorflow-1-public/course2/week3/horse-or-human.zip
 !wget https://storage.googleapis.com/tensorflow-1-public/course2/week3/validation-horse-or-human.zip
 
