@@ -123,7 +123,7 @@ for fn in uploaded.keys():
   classes = model.predict(images, batch_size=32)
   print(classes[0])
     
-  if classes[0]>0.08:
+  if classes[0]>0.35:
     img = mpimg.imread(path)
     imgplot = plt.imshow(img)
     plt.show()
