@@ -137,4 +137,3 @@ for fn in uploaded.keys():
 
     print("the file" + fn + " does not contains virus")
     print()
-
